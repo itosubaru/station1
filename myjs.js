@@ -1,1 +1,1 @@
-alart('Hello, Subaru!');
+alert('Hello, Subaru!');
