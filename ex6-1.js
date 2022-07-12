@@ -1,1 +1,1 @@
-functon sayhello(){ alert('Hello, Function!');}
+functon sayhello() { alert('Hello, Function!');}
