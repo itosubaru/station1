@@ -1,2 +1,2 @@
 function sayhello(){ alert('Hello, Function!'); }
-fuctoion sayhello(){alert('Goodbye.');}
+fuctoion saygoodbye(){alert('Goodbye.');}
